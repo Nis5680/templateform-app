@@ -1,4 +1,4 @@
-label{
+/* label{
     display: block;
     margin-top: 8px;
 }
@@ -124,7 +124,8 @@ select {
 button {
     animation-delay: 0.4s;
 }
-/* Modern Dark Theme */
+
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
@@ -189,4 +190,4 @@ button:hover {
 
 button:active {
     transform: translateY(0);
-}
+} */

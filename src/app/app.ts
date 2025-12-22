@@ -1,9 +1,10 @@
+import { NgIf } from '@angular/common';
 import { Component, signal } from '@angular/core';
 import { FormsModule, NgForm } from '@angular/forms';
 
 @Component({
   selector: 'app-root',
-  imports: [FormsModule],
+  imports: [FormsModule, NgIf],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
